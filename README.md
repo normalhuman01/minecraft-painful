@@ -1,14 +1,15 @@
-# Painful-Minecraft
+# Minecraft painful mod
 
-A Minecraft Mod, that will trigger a esp32 via wifi to turn on a 9V taser, that will hurt the player when steve's gets hurt
+The Painful-Minecraft Mod is a unique addition to the Minecraft experience. This mod integrates an ESP32 device via WiFi to activate a 9V taser whenever Steve, the game's main character, takes damage. Brace yourself for an electrifying twist in your Minecraft adventures!
 
 ## Changelog
 
-### The V1.0 is deprecated
+### Version 1.0 Deprecation Notice
 
-The version 1.0 was working with a CV based method using image recognition from the game itself. it wasn't 100% accurate so is changed. all the data is in the folder PythonTest
+**Note:** The V1.0 version of this mod is now deprecated.
 
-### Mod Now Working
+Version 1.0 relied on a computer vision (CV) based method utilizing image recognition directly from the game. While it provided an interesting concept, its accuracy was not perfect. Therefore, we have decided to discontinue this version. All relevant data and code can be found in the "PythonTest" folder.
 
-The mod is almost done, to make useful only requires to change the url from the request to match with the esp32 ip address
-Also the Esp32 code is done, and the schematics will be uploaded soon
+### Current Mod Status
+
+The Painful-Minecraft Mod is now fully operational and nearly complete. To make it functional, all you need to do is update the URL in the request to match the IP address of your ESP32 device. Additionally, the ESP32 code has been finalized, and we will soon be providing schematics for your convenience.
